@@ -59,3 +59,108 @@ Identifying design properties from a mockup is critical for several reasons:
 
 ---
 
+## Project Roles and Responsibilities 👥
+
+### 1. **Project Manager (PM)** 🗂️
+**Key Responsibilities:**
+- Oversee the project's overall progress, ensuring that timelines and milestones are met.
+- Facilitate communication among team members and stakeholders.
+- Manage resources, risks, and the project budget.
+- Act as the primary point of contact for all stakeholders.
+- Organize and lead project meetings, including sprint planning and retrospectives.
+
+**Contribution to Success:**
+The PM ensures the project stays on track, manages any roadblocks, and fosters a collaborative team environment, driving the project toward successful delivery.
+
+---
+
+### 2. **Frontend Developers** 💻
+**Key Responsibilities:**
+- Implement the UI/UX design using React, TypeScript, and TailwindCSS.
+- Develop responsive and visually appealing components.
+- Integrate frontend features with backend APIs.
+- Optimize the application for speed, accessibility, and responsiveness.
+- Collaborate with designers to ensure accurate implementation of design specs.
+
+**Contribution to Success:**
+Frontend developers bring the visual aspects of the application to life, ensuring an engaging and seamless user experience.
+
+---
+
+### 3. **Backend Developers** 🔧
+**Key Responsibilities:**
+- Develop and maintain server-side logic and functionality using Python and Django.
+- Design and manage the database (MySQL).
+- Build secure and scalable APIs for frontend integration.
+- Implement authentication and data protection measures.
+- Optimize server performance and scalability.
+
+**Contribution to Success:**
+Backend developers ensure the application is robust, secure, and capable of handling all user interactions effectively.
+
+---
+
+### 4. **Designers** 🎨
+**Key Responsibilities:**
+- Create wireframes, prototypes, and final mockups using Figma.
+- Define and maintain the design system, including color palettes, typography, and components.
+- Conduct usability testing to gather feedback and refine designs.
+- Ensure the UI/UX is intuitive, attractive, and consistent across the application.
+
+**Contribution to Success:**
+Designers provide the creative vision and user-centered design principles that make the application visually appealing and user-friendly.
+
+---
+
+### 5. **QA/Testers** 🧪
+**Key Responsibilities:**
+- Develop test cases and execute manual and automated testing.
+- Identify, document, and track bugs throughout the development process.
+- Verify bug fixes and perform regression testing.
+- Ensure the application meets functional, performance, and quality standards.
+
+**Contribution to Success:**
+QA/Testers ensure that the final product is reliable, bug-free, and meets the project’s quality expectations.
+
+---
+
+### 6. **DevOps Engineers** 🚀
+**Key Responsibilities:**
+- Automate deployment processes and manage CI/CD pipelines.
+- Monitor application performance and server uptime.
+- Configure and manage cloud infrastructure.
+- Ensure the application is secure and compliant in production.
+
+**Contribution to Success:**
+DevOps engineers streamline the deployment process and ensure the application runs smoothly and securely in production environments.
+
+---
+
+### 7. **Product Owner (PO)** 📋
+**Key Responsibilities:**
+- Define and prioritize product features and user stories.
+- Maintain and manage the product backlog.
+- Act as the bridge between stakeholders and the development team.
+- Ensure the product aligns with user needs and business goals.
+- Accept completed features and ensure they meet requirements.
+
+**Contribution to Success:**
+The PO ensures that the development team builds a product that delivers maximum value to the end users and stakeholders.
+
+---
+
+### 8. **Scrum Master** 🏅
+**Key Responsibilities:**
+- Facilitate Agile processes and ensure adherence to Scrum practices.
+- Organize Scrum ceremonies (stand-ups, sprint planning, retrospectives).
+- Remove obstacles that hinder the team’s progress.
+- Promote continuous improvement and team collaboration.
+
+**Contribution to Success:**
+The Scrum Master helps the team stay productive and focused while fostering a positive and efficient development environment.
+
+---
+
+With clearly defined roles and responsibilities, the team can work cohesively and effectively to deliver a successful project. 🚀
+
+---
