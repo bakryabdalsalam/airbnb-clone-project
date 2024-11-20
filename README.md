@@ -6,86 +6,44 @@ The goal of this project is to provide practical experience in developing a simp
 
 ---
 
+## UI/UX Design Planning 🎨
+
+### Design Goals
+1. **Intuitive Navigation**: Ensure users can effortlessly explore and interact with the platform.
+2. **Visual Appeal**: Use clean layouts and modern design principles to engage users.
+3. **Responsiveness**: Provide a seamless experience across devices.
+4. **Accessibility**: Design for users of all abilities to make the platform inclusive.
+5. **Simplified Interactions**: Minimize the number of steps required to perform key actions like searching, viewing, and booking properties.
+
+### Key Features
+- **Property Listings**: Display property details such as images, title, price, and location.
+- **Detailed Views**: Offer comprehensive information on selected properties, including amenities and booking options.
+- **Booking Flow**: Create a streamlined, hassle-free booking experience.
+- **Search Functionality**: Allow users to filter and find properties based on their preferences.
+
+### Primary Pages
+| **Page**                | **Description**                                                                                                                                                                                                                       | **Design Goals**                                             |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| **Property Listing View** | Displays various property listings with essential details and images. It highlights the title, price, location, and a brief description of each property, allowing users to browse and select quickly.                              | Focus on visual hierarchy, ease of navigation, and responsiveness. |
+| **Listing Detailed View** | Provides in-depth details of a selected property, including its name, price, location, and amenities. The page should include high-quality images and a clear layout for easy comprehension.                                        | Prioritize clarity, high-quality visuals, and user focus.    |
+| **Simple Checkout View**  | Facilitates the booking process, including date and guest selection. Includes a clear summary of the booking details and a call-to-action button to finalize the reservation.                                                      | Ensure simplicity, minimal clicks, and secure interactions.  |
+
+### Importance of User-Friendly Design in a Booking System
+A user-friendly design is essential for a booking system because:
+- **Enhances User Satisfaction**: Simplified navigation and clear visuals make it easier for users to find and book properties.
+- **Increases Conversion Rates**: A streamlined booking process minimizes drop-offs, ensuring users complete their transactions.
+- **Builds Trust**: A well-designed interface communicates professionalism and reliability, encouraging users to return.
+- **Reduces Support Queries**: Clear and intuitive designs reduce confusion, decreasing the need for customer support.
+
+---
+
 ## Project Overview 📖
 
-### Pages
+### Pages and Features
 1. **Property Listing View**: Displays various property listings with essential details and images.
 2. **Listing Detailed View**: Provides detailed information about a specific property, including features and amenities.
 3. **Simple Checkout View**: Enables streamlined property booking with date and guest selection options.
 
-### Features
-- **Property Listings**: Display properties with relevant details and images.
-- **Booking System**: Allow users to book properties, view booking details, and manage bookings.
-- **Search Functionality**: Enable users to search properties based on criteria like location, price, and availability.
-- **User Authentication**: Secure login and registration system.
+...
 
----
 
-## Project Goals 🎯
-
-By the end of this project, you will:
-- Understand the project scope.
-- Identify key features and implement them effectively.
-- Adhere to timelines and milestones.
-- Utilize necessary tools and technologies.
-- Collaborate within a development team to deliver a functional product.
-
----
-
-## Project Timeline 🗓️
-
-| Week      | Tasks                                   |
-|-----------|-----------------------------------------|
-| 1 - 2     | Project Planning and UI/UX Design       |
-| 3 - 4     | TypeScript and React.js Basics          |
-| 5 - 6     | Advanced React and State Management     |
-| 7 - 8     | API Integration and Routing             |
-| 9 - 10    | Backend Integration and Authentication  |
-| 11 - 12   | Booking System and Checkout Process     |
-| 13 - 14   | Testing and Optimization                |
-| 15 - 16   | Final Review and Presentation           |
-
----
-
-## Technologies Used 💻
-
-- **Frontend**: React, TypeScript, Next.js, TailwindCSS
-- **Backend**: Python, Django, MySQL (illustration purposes only)
-- **State Management**: Redux or Context API
-- **API Integration**: REST APIs
-- **Testing**: Jest
-
----
-
-## Team Roles 👥
-
-### **Project Manager (PM)**
-- Oversees the project, manages resources and timelines, and serves as the stakeholder liaison.
-
-### **Frontend Developers**
-- Build and optimize the UI/UX using React and TailwindCSS.
-- Ensure responsiveness and integrate frontend with APIs.
-
-### **Backend Developers**
-- Manage server-side logic and databases.
-- Create secure and scalable APIs.
-
-### **Designers**
-- Design wireframes, mockups, and visual elements.
-- Ensure user-friendly and consistent designs.
-
-### **QA/Testers**
-- Test the application for bugs and ensure quality assurance.
-- Perform regression and usability testing.
-
-### **DevOps Engineers**
-- Automate deployment and manage CI/CD pipelines.
-- Monitor application performance and ensure uptime.
-
----
-
-## Getting Started 🚀
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository_url>
