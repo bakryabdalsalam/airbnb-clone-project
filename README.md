@@ -164,3 +164,76 @@ The Scrum Master helps the team stay productive and focused while fostering a po
 With clearly defined roles and responsibilities, the team can work cohesively and effectively to deliver a successful project. 🚀
 
 ---
+
+## UI Component Patterns 🧩
+
+To create a cohesive and reusable design system for the project, we will build a set of UI components. These components will ensure consistency across the application and streamline development.
+
+### Components to Be Created
+
+1. **Navbar**
+   - **Description**: A responsive navigation bar that provides easy access to key sections of the application.
+   - **Features**:
+     - Branding/logo display.
+     - Navigation links (e.g., Home, Properties, About, Contact).
+     - A search bar for quick property searches.
+     - Dropdown menu for user authentication options (Login/Signup or User Profile).
+   - **Usage**: Appears on all pages to provide consistent navigation.
+
+2. **Property Card**
+   - **Description**: A reusable card component to display property information in a visually appealing way.
+   - **Features**:
+     - Property image, name, and price.
+     - Location details.
+     - Brief description of the property.
+     - A call-to-action button (e.g., “View Details”).
+   - **Usage**: Used on the property listing page and as part of the search results.
+
+3. **Footer**
+   - **Description**: A footer section providing additional information and links.
+   - **Features**:
+     - Quick links (e.g., Privacy Policy, Terms of Service).
+     - Social media icons.
+     - Contact information or support details.
+   - **Usage**: Appears at the bottom of all pages.
+
+4. **Search Bar**
+   - **Description**: A standalone component for filtering properties based on user criteria.
+   - **Features**:
+     - Input fields for location, check-in/check-out dates, and number of guests.
+     - A submit button to execute the search.
+   - **Usage**: Appears on the homepage and listing page for user convenience.
+
+5. **Booking Form**
+   - **Description**: A form to facilitate the property booking process.
+   - **Features**:
+     - Input fields for user details and booking preferences.
+     - Price summary and a call-to-action button (e.g., “Confirm Booking”).
+   - **Usage**: Used in the checkout process.
+
+6. **Modal**
+   - **Description**: A reusable popup component for displaying additional information or interactions.
+   - **Features**:
+     - Configurable content, such as booking details or error messages.
+     - Close button for easy dismissal.
+   - **Usage**: Used for login, signup, or showing booking confirmations.
+
+7. **Pagination**
+   - **Description**: A component to navigate through property listings or search results.
+   - **Features**:
+     - Next/Previous buttons.
+     - Page number indicators.
+   - **Usage**: Appears on property listing and search results pages.
+
+8. **Property Details Section**
+   - **Description**: A detailed component to display property information on the individual property page.
+   - **Features**:
+     - Full property description, amenities, and reviews.
+     - A carousel or slider for property images.
+   - **Usage**: Used on the property detailed view page.
+
+---
+
+By creating these reusable UI components, we can ensure a consistent and efficient design system while providing a polished and user-friendly interface.
+
+---
